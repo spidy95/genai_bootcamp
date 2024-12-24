@@ -2,3 +2,5 @@ ipykernel
 pandas
 textblob
 emoji
+nltk
+scikit-learn
